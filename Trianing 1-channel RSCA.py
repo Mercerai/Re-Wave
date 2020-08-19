@@ -1,5 +1,5 @@
 from ResSCANet import *
-from CNN1D import *
+
 import pandas as pd
 import torch.utils.data as Data
 
